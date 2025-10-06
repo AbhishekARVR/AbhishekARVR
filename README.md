@@ -1,6 +1,6 @@
-# Technical Simulation Portfolio
+# Abhishek Shinde
 
-Specializing in real-time graphics simulation, physics-based dynamics, and GPU-accelerated rendering for Unity/VR applications.
+Real-time graphics simulation, and GPU-accelerated rendering for Unity/VR applications.
 
 ---
 
@@ -12,8 +12,6 @@ Specializing in real-time graphics simulation, physics-based dynamics, and GPU-a
 - **Core Technology**: OpenGL, C++, GLSL shader programming
 - **Physics Engine**: Custom PBD implementation with stretch, bend, and volume constraint solvers
 - **Architecture**: Object-oriented design supporting multiple dynamic/static meshes, cameras, and lighting
-- **Performance**: GPU-accelerated rendering pipeline optimized for real-time tissue deformation
-- **Use Case**: Medical simulation training with realistic soft tissue behavior
 
 **[View Repository →](https://github.com/AbhishekARVR/OpenGL-Tissue-Engine)**
 
@@ -24,11 +22,9 @@ Specializing in real-time graphics simulation, physics-based dynamics, and GPU-a
 **GPU-Accelerated Graphics Simulations Collection**
 
 ### Technical Highlights
-- **Platform**: Unity Engine with custom compute shaders
 - **Tessellation Grass Rendering**: Geometry shader-based procedural grass with dynamic wind animations
 - **Terrain Generation**: Perlin noise-based terrain system accelerated via compute shaders for real-time generation
 - **PBD Cloth Simulation**: Physics-based cloth with stretch and bend constraint solving
-- **Performance**: Fully GPU-accelerated pipeline for maximum frame rates
 
 **[View Repository →](https://github.com/AbhishekARVR/World-simulator)**
 
