@@ -15,9 +15,6 @@ Specializing in real-time graphics simulation, physics-based dynamics, and GPU-a
 - **Performance**: GPU-accelerated rendering pipeline optimized for real-time tissue deformation
 - **Use Case**: Medical simulation training with realistic soft tissue behavior
 
-### Video Demo
-🎥 *[Video demo link to be added]*
-
 **[View Repository →](https://github.com/AbhishekARVR/OpenGL-Tissue-Engine)**
 
 ---
@@ -32,9 +29,6 @@ Specializing in real-time graphics simulation, physics-based dynamics, and GPU-a
 - **Terrain Generation**: Perlin noise-based terrain system accelerated via compute shaders for real-time generation
 - **PBD Cloth Simulation**: Physics-based cloth with stretch and bend constraint solving
 - **Performance**: Fully GPU-accelerated pipeline for maximum frame rates
-
-### Video Demo
-🎥 *[Video demo link to be added]*
 
 **[View Repository →](https://github.com/AbhishekARVR/World-simulator)**
 
